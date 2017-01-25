@@ -1,7 +1,7 @@
 # CleanDataW4Project
 Coursera project
 
-##This project cleans and tydies the data as described below:
+##This project cleans and tidies the data as described below:
 
 First it just reads the features and labels.
 
