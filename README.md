@@ -3,11 +3,11 @@ Coursera project
 
 ##This project cleans and tidies the data as described below:
 
-It has 3 files:
-run_Analysis.R    code for creating the tidydataset.txt
-README.md         this file that describes the project
-codebook.txt      original file that described the dataset, updated with this project's changes
-tidydataset.txt   the dataset created from the original information by the submitted code that performs the operations described below
+It has 3 files:  
+* run_Analysis.R    code for creating the tidydataset.txt  
+* README.md         this file that describes the project  
+* codebook.txt      original file that described the dataset, updated with this project's changes  
+* tidydataset.txt   the dataset created from the original information by the submitted code that performs the operations described below  
 
 First it just reads the features and labels.
 
